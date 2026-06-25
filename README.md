@@ -14,7 +14,7 @@ This project analyzes sales performance across regions, products, and time perio
 - DAX (if used)
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.png)
 
 ## Files
 - `dashboard.pbix`: Power BI report file
