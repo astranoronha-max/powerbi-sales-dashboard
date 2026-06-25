@@ -17,8 +17,8 @@ This project analyzes sales performance across regions, products, and time perio
 ![Dashboard](dashboard_screenshot.png)
 
 ## Files
-- `dashboard.pbix`: Power BI report file
-- `data/`: Source dataset
+- `Retail_Sales_Dashboard.pbix`: Power BI report file
+- `superstore`: Source dataset
 
 ## How to Use
 1. Download the PBIX file
