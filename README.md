@@ -11,7 +11,6 @@ This project analyzes sales performance across regions, products, and time perio
 ## Tools Used
 - Power BI
 - Excel / CSV
-- DAX (if used)
 
 ## Dashboard Preview
 ![Dashboard](dashboard_screenshot.png)
